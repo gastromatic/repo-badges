@@ -8,6 +8,7 @@
     <rect width="115" height="20" rx="3" fill="#fff"/>
 </clipPath>
 <g clip-path="url(#r)">
+    <rect x="0" width="21" height="20" fill="#000" />
     <rect x="21" width="120" height="20" fill="#00CCC0" />
     <rect width="115" height="20" fill="url(#s)"/>
     <g transform="scale(0.42) translate(8,8)">

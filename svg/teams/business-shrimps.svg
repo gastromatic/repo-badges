@@ -4,10 +4,12 @@
     <stop offset="0" stop-color="#fff" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
 </linearGradient>
-<clipPath id="r">
-    <rect width="145" height="20" rx="3" fill="#fff"/>
-</clipPath>
+    <clipPath id="r">
+        <rect width="145" height="20" rx="3" fill="#fff"/>
+    </clipPath>
 <g clip-path="url(#r)">
+    <rect x="0" width="21" height="20" fill="#000" />
+    <rect x="21" width="145" height="20" fill="#000" />
     <rect width="145" height="20" fill="url(#s)"/>
     <text x="0" y="55%" transform="scale(0.8) translate(2,2)" fill="#FFF" dominant-baseline="middle">🦐</text>
     <!-- Text mittig -->
