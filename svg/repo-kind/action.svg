@@ -17,8 +17,8 @@
     </g>
     <!-- Text mittig -->
     <g fill="#000" text-anchor="middle" font-family="sans-serif" text-rendering="geometricPrecision" font-size="14">
-        <text aria-hidden="true" x="57%" y="55%" transform="translate(0.6,0.6)" fill="#000" fill-opacity=".8" dominant-baseline="middle">Action</text>
-        <text x="57%" y="55%" fill="#FFF" dominant-baseline="middle">Action</text>
+        <text aria-hidden="true" x="57%" y="55%" transform="translate(0.8,0.8)" fill="#FFF" fill-opacity=".8" dominant-baseline="middle">Action</text>
+        <text x="57%" y="55%" fill="#000" dominant-baseline="middle">Action</text>
     </g>
 </g>
 </svg>
