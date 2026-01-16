@@ -11,7 +11,7 @@
     <rect x="0" width="21" height="20" fill="#000" />
     <rect x="21" width="115" height="20" fill="#000" />
     <rect width="115" height="20" fill="url(#s)"/>
-    <text x="0" y="55%" transform="scale(0.9) translate(2,2)" fill="#FFF" dominant-baseline="middle">⭐️</text>
+    <text x="0" y="55%" transform="scale(0.8) translate(2,3)" fill="#FFF" dominant-baseline="middle">⭐️</text>
     <!-- Text mittig -->
     <g fill="#000" text-anchor="middle" font-family="sans-serif" text-rendering="geometricPrecision" font-size="14">
         <text aria-hidden="true" x="55%" y="55%" transform="translate(0.8,0.8)" fill="#000" fill-opacity=".8" dominant-baseline="middle">Sea Biscuit</text>
