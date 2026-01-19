@@ -18,11 +18,13 @@ This repository provides various SVG badges that you can use in your own README 
 | Dev             | ![Dev](https://github.com/gastromatic/repo-badges/raw/main/svg/repo-kind/dev.svg)                       | `![Dev](https://github.com/gastromatic/repo-badges/raw/main/svg/repo-kind/dev.svg)`                       |
 | Helper          | ![Helper](https://github.com/gastromatic/repo-badges/raw/main/svg/repo-kind/helper.svg)                 | `![Helper](https://github.com/gastromatic/repo-badges/raw/main/svg/repo-kind/helper.svg)`                 |
 | Unknown         | ![Unknown](https://github.com/gastromatic/repo-badges/raw/main/svg/repo-kind/unknown.svg)               | `![Unknown](https://github.com/gastromatic/repo-badges/raw/main/svg/repo-kind/unknown.svg)`               |
-| Teams           |
-| All Coders      | ![AllCoders](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/all-coders.svg)      | `![AllCoders](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/all-coders.svg)`  |
+| **Misc**        |
+| Documentation   | ![Documentation](https://github.com/gastromatic/repo-badges/raw/main/svg/misc/documentation.svg)        | `![Documentation](https://github.com/gastromatic/repo-badges/raw/main/svg/misc/documentation.svg)`        |
+| **Teams**       |
+| All Coders      | ![AllCoders](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/all-coders.svg)              | `![AllCoders](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/all-coders.svg)`              |
 | BusinessShrimps | ![BusinessShrimps](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-shrimps.svg)  | `![BusinessShrimps](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-shrimps.svg)`  |
-| SeaBiscuit      | ![SeaBiscuit](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/sea-biscuit.svg) | `![SeaBiscuit](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/sea-biscuit.svg)`  |
-| BlackPearl      | ![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg) | `![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg)`  |
+| SeaBiscuit      | ![SeaBiscuit](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/sea-biscuit.svg)            | `![SeaBiscuit](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/sea-biscuit.svg)`            |
+| BlackPearl      | ![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg)            | `![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg)`            |
 
 ## Usage
 
