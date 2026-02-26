@@ -20,6 +20,7 @@ This repository provides various SVG badges that you can use in your own README 
 | Unknown         | ![Unknown](https://github.com/gastromatic/repo-badges/raw/main/svg/repo-kind/unknown.svg)               | `![Unknown](https://github.com/gastromatic/repo-badges/raw/main/svg/repo-kind/unknown.svg)`               |
 | **Misc**        |
 | Documentation   | ![Documentation](https://github.com/gastromatic/repo-badges/raw/main/svg/misc/documentation.svg)        | `![Documentation](https://github.com/gastromatic/repo-badges/raw/main/svg/misc/documentation.svg)`        |
+| Github Repo     | ![GithubRepo](https://github.com/gastromatic/repo-badges/raw/main/svg/misc/github-repo.svg)             | `![GithubRepo](https://github.com/gastromatic/repo-badges/raw/main/svg/misc/github-repo.svg)`             |
 | **Teams**       |
 | All Coders      | ![AllCoders](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/all-coders.svg)              | `![AllCoders](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/all-coders.svg)`              |
 | BusinessShrimps | ![BusinessShrimps](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-shrimps.svg)  | `![BusinessShrimps](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-shrimps.svg)`  |
