@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="20" role="img" aria-label="Internal Affairs">
+<title>Internal Affairs</title>
+<linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#fff" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+</linearGradient>
+    <clipPath id="r">
+        <rect width="140" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+<g clip-path="url(#r)">
+    <rect x="0" width="21" height="20" fill="#000" />
+    <rect x="21" width="140" height="20" fill="#000" />
+    <rect width="140" height="20" fill="url(#s)"/>
+    <text x="0" y="55%" transform="scale(0.8) translate(2,2)" fill="#FFF" dominant-baseline="middle">🛡️</text>
+    <g fill="#000" text-anchor="middle" font-family="sans-serif" text-rendering="geometricPrecision" font-size="14">
+        <text aria-hidden="true" x="55%" y="55%" transform="translate(0.8,0.8)" fill="#000" fill-opacity=".8" dominant-baseline="middle">Internal Affairs</text>
+        <text x="55%" y="55%" fill="#FFF" dominant-baseline="middle">Internal Affairs</text>
+    </g>
+</g>
+</svg>
