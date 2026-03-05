@@ -24,6 +24,7 @@ This repository provides various SVG badges that you can use in your own README 
 | **Teams**       |
 | All Coders      | ![AllCoders](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/all-coders.svg)              | `![AllCoders](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/all-coders.svg)`              |
 | BusinessShrimps | ![BusinessShrimps](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-shrimps.svg)  | `![BusinessShrimps](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-shrimps.svg)`  |
+| InternalAffairs | ![InternalAffairs](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/internal-affairs.svg)  | `![InternalAffairs](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/internal-affairs.svg)`  |
 | SeaBiscuit      | ![SeaBiscuit](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/sea-biscuit.svg)            | `![SeaBiscuit](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/sea-biscuit.svg)`            |
 | BlackPearl      | ![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg)            | `![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg)`            |
 
