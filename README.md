@@ -27,6 +27,8 @@ This repository provides various SVG badges that you can use in your own README 
 | InternalAffairs | ![InternalAffairs](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/internal-affairs.svg)  | `![InternalAffairs](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/internal-affairs.svg)`  |
 | SeaBiscuit      | ![SeaBiscuit](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/sea-biscuit.svg)            | `![SeaBiscuit](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/sea-biscuit.svg)`            |
 | BlackPearl      | ![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg)            | `![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg)`            |
+| Dienstplan      | ![Dienstplan](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/dienstplan.svg)            | `![Dienstplan](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/dienstplan.svg)`            |
+| Mobile          | ![Mobile](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/mobile.svg)                    | `![Mobile](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/mobile.svg)`                    |
 
 ## Usage
 
