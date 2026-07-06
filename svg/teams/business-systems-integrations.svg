@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="20" role="img" aria-label="Business Systems Integrations">
+<title>Business Systems Integrations</title>
+<linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#fff" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+</linearGradient>
+    <clipPath id="r">
+        <rect width="250" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+<g clip-path="url(#r)">
+    <rect x="0" width="26" height="20" fill="#000" />
+    <rect x="26" width="224" height="20" fill="#000" />
+    <rect width="250" height="20" fill="url(#s)"/>
+    <!-- Wikinger-Helm -->
+    <g transform="translate(4,3)" fill="#FFF" stroke="#FFF" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round">
+        <!-- Hörner -->
+        <path d="M4.3 8.5 C1.5 8 -0.2 6 0.3 3.3 C1.6 4.6 3 5.4 4.6 5.6 Z" />
+        <path d="M13.7 8.5 C16.5 8 18.2 6 17.7 3.3 C16.4 4.6 15 5.4 13.4 5.6 Z" />
+        <!-- Helmglocke -->
+        <path d="M3.2 12.5 C3.2 7.6 6 5 9 5 C12 5 14.8 7.6 14.8 12.5 Z" />
+        <!-- Krempe -->
+        <rect x="2.2" y="12.3" width="13.6" height="1.8" rx="0.9" />
+        <!-- Nasenschutz -->
+        <rect x="8.3" y="7" width="1.4" height="6.5" rx="0.6" />
+    </g>
+    <!-- Text mittig -->
+    <g fill="#000" text-anchor="middle" font-family="sans-serif" text-rendering="geometricPrecision" font-size="14">
+        <text aria-hidden="true" x="55%" y="55%" transform="translate(0.8,0.8)" fill="#000" fill-opacity=".8" dominant-baseline="middle">Business Systems Integrations</text>
+        <text x="55%" y="55%" fill="#FFF" dominant-baseline="middle">Business Systems Integrations</text>
+    </g>
+</g>
+</svg>
