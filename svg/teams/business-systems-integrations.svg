@@ -1,32 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="20" role="img" aria-label="Business Systems Integrations">
+<svg xmlns="http://www.w3.org/2000/svg" width="258" height="20" role="img" aria-label="Business Systems Integrations">
 <title>Business Systems Integrations</title>
 <linearGradient id="s" x2="0" y2="100%">
     <stop offset="0" stop-color="#fff" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
 </linearGradient>
     <clipPath id="r">
-        <rect width="250" height="20" rx="3" fill="#fff"/>
+        <rect width="258" height="20" rx="3" fill="#fff"/>
     </clipPath>
 <g clip-path="url(#r)">
-    <rect x="0" width="26" height="20" fill="#000" />
-    <rect x="26" width="224" height="20" fill="#000" />
-    <rect width="250" height="20" fill="url(#s)"/>
-    <!-- Wikinger-Helm -->
-    <g transform="translate(4,3)" fill="#FFF" stroke="#FFF" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round">
-        <!-- Hörner -->
-        <path d="M4.3 8.5 C1.5 8 -0.2 6 0.3 3.3 C1.6 4.6 3 5.4 4.6 5.6 Z" />
-        <path d="M13.7 8.5 C16.5 8 18.2 6 17.7 3.3 C16.4 4.6 15 5.4 13.4 5.6 Z" />
-        <!-- Helmglocke -->
-        <path d="M3.2 12.5 C3.2 7.6 6 5 9 5 C12 5 14.8 7.6 14.8 12.5 Z" />
-        <!-- Krempe -->
-        <rect x="2.2" y="12.3" width="13.6" height="1.8" rx="0.9" />
-        <!-- Nasenschutz -->
-        <rect x="8.3" y="7" width="1.4" height="6.5" rx="0.6" />
+    <rect x="0" width="21" height="20" fill="#000" />
+    <rect x="21" width="258" height="20" fill="#000" />
+    <rect width="258" height="20" fill="url(#s)"/>
+    <!-- Wikingerhelm -->
+    <g transform="translate(-0.6064,-3.241) scale(0.9255)" fill="#fff">
+        <path d="M6.8 15A5.2 5.2 0 0 1 17.2 15L18.8 15L18.8 17.8L13.6 17.8L13.6 20.3L10.4 20.3L10.4 17.8L5.2 17.8L5.2 15Z"/>
+        <path d="M8.6 12.4C8.292 12.228 7.198 11.627 6.75 11.37C6.302 11.113 6.217 11.085 5.91 10.86C5.603 10.635 5.323 10.445 4.91 10.02C4.497 9.595 3.677 8.595 3.43 8.31C3.258 8.712 2.483 9.927 2.4 10.72C2.317 11.513 2.57 12.383 2.93 13.07C3.29 13.757 3.948 14.252 4.56 14.84C5.172 15.428 6.26 16.307 6.6 16.6Z"/>
+        <path d="M15.4 12.4C15.708 12.228 16.802 11.627 17.25 11.37C17.698 11.113 17.783 11.085 18.09 10.86C18.397 10.635 18.677 10.445 19.09 10.02C19.503 9.595 20.323 8.595 20.57 8.31C20.742 8.712 21.517 9.927 21.6 10.72C21.683 11.513 21.43 12.383 21.07 13.07C20.71 13.757 20.052 14.252 19.44 14.84C18.828 15.428 17.74 16.307 17.4 16.6Z"/>
     </g>
     <!-- Text mittig -->
     <g fill="#000" text-anchor="middle" font-family="sans-serif" text-rendering="geometricPrecision" font-size="14">
-        <text aria-hidden="true" x="55%" y="55%" transform="translate(0.8,0.8)" fill="#000" fill-opacity=".8" dominant-baseline="middle">Business Systems Integrations</text>
-        <text x="55%" y="55%" fill="#FFF" dominant-baseline="middle">Business Systems Integrations</text>
+        <text aria-hidden="true" x="54.5%" y="55%" transform="translate(0.8,0.8)" fill="#000" fill-opacity=".8" dominant-baseline="middle">Business Systems Integrations</text>
+        <text x="54.5%" y="55%" fill="#FFF" dominant-baseline="middle">Business Systems Integrations</text>
     </g>
 </g>
 </svg>

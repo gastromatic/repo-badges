@@ -29,6 +29,7 @@ This repository provides various SVG badges that you can use in your own README 
 | BlackPearl      | ![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg)            | `![BlackPearl](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/black-pearl.svg)`            |
 | Dienstplan      | ![Dienstplan](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/dienstplan.svg)            | `![Dienstplan](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/dienstplan.svg)`            |
 | Mobile          | ![Mobile](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/mobile.svg)                    | `![Mobile](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/mobile.svg)`                    |
+| Business Systems Integrations | ![BusinessSystemsIntegrations](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-systems-integrations.svg) | `![BusinessSystemsIntegrations](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-systems-integrations.svg)` |
 
 ## Usage
 
