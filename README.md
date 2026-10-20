@@ -30,6 +30,7 @@ This repository provides various SVG badges that you can use in your own README 
 | Dienstplan      | ![Dienstplan](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/dienstplan.svg)            | `![Dienstplan](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/dienstplan.svg)`            |
 | Mobile          | ![Mobile](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/mobile.svg)                    | `![Mobile](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/mobile.svg)`                    |
 | Business Systems Integrations | ![BusinessSystemsIntegrations](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-systems-integrations.svg) | `![BusinessSystemsIntegrations](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/business-systems-integrations.svg)` |
+| AI Engineering  | ![AIEngineering](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/ai-engineering.svg)       | `![AIEngineering](https://github.com/gastromatic/repo-badges/raw/main/svg/teams/ai-engineering.svg)`       |
 
 ## Usage
 
